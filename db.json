@@ -15,7 +15,7 @@
       "power": "Music, prophecy, healing, archery",
       "symbol": "Lyre, bow",
       "father": "Zeus",
-      "mother": "Leto", 
+      "mother": "Leto",
       "image": "https://cdn.thinglink.me/api/image/598940036477485057/1024/10/scaletowidth/0/0/1/1/false/true?wait=true"
     },
     {
@@ -171,5 +171,5 @@
       "mother": "Melpomene",
       "image": "https://i.pinimg.com/originals/47/b6/11/47b6119d2ba5c960b0fb4cb022c63572.jpg"
     }
-]
+  ]
 }
