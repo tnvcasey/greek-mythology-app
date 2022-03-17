@@ -1,0 +1,175 @@
+{
+  "gods": [
+    {
+      "name": "Aphrodite",
+      "romanname": "Venus",
+      "power": "Love, beauty, procreation",
+      "symbol": "Eros (winged godling), conch-shell",
+      "father": "Zeus",
+      "mother": "Dione",
+      "image": "https://i.etsystatic.com/5801272/r/il/0e49ff/1419919515/il_794xN.1419919515_q77t.jpg"
+    },
+    {
+      "name": "Apollo",
+      "romanname": "Apollo",
+      "power": "Music, prophecy, healing, archery",
+      "symbol": "Lyre, bow",
+      "father": "Zeus",
+      "mother": "Leto", 
+      "image": "https://cdn.thinglink.me/api/image/598940036477485057/1024/10/scaletowidth/0/0/1/1/false/true?wait=true"
+    },
+    {
+      "name": "Ares",
+      "romanname": "Mars",
+      "power": "War, courage, battlelust",
+      "symbol": "Helm",
+      "father": "Zeus",
+      "mother": "Hera",
+      "image": "http://mythologian.net/wp-content/uploads/2012/08/ares.jpg"
+    },
+    {
+      "name": "Artemis",
+      "romanname": "Diana",
+      "power": "Hunting, wild animals, children",
+      "symbol": "Bow and arrows",
+      "father": "Zeus",
+      "mother": "Leto",
+      "image": "http://1.bp.blogspot.com/-mkn-ZXq5XGM/UPWlHTPorgI/AAAAAAAAAvU/gIYz2JBdhMg/s1600/artemis__goddess_of_the_hunt_by_violscraper.jpg"
+    },
+    {
+      "name": "Athena",
+      "romanname": "Minerva",
+      "power": "Wisdom, war, weaving, crafts",
+      "symbol": "Aegis, gorgoneion",
+      "father": "Zeus",
+      "mother": "Metis",
+      "image": "https://i.pinimg.com/originals/b2/0d/8b/b20d8b2f72a3573ed6328da2f00c699c.jpg"
+    },
+    {
+      "name": "Demeter",
+      "romanname": "Ceres",
+      "power": "Grain, bread, agriculture",
+      "symbol": "Sheaf of grain, cornucopia",
+      "father": "Cronus",
+      "mother": "Rhea",
+      "image": "http://2.bp.blogspot.com/-J49l2N33zlw/Tr7Zw5FDuDI/AAAAAAAAACg/dIHeqmqkuQM/s1600/Demeter+Goddess..jpg"
+    },
+    {
+      "name": "Dionysus",
+      "romanname": "Liber",
+      "power": "Wine, festivity, madness",
+      "symbol": "Thyrsus (pine-cone staff)",
+      "father": "Zeus",
+      "mother": "Semele",
+      "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/dionysus-or-bacchus-god-of-wine-science-source.jpg"
+    },
+    {
+      "name": "Hephaestus",
+      "romanname": "Vulcan",
+      "power": "Smiths, fire, metalworking",
+      "symbol": "Hammer & tongs",
+      "father": "None",
+      "mother": "Hera",
+      "image": "https://pre06.deviantart.net/ef3b/th/pre/f/2011/321/b/6/hephaestus_by_drawingformonkeys-d4gisc2.jpg"
+    },
+    {
+      "name": "Hera",
+      "romanname": "Juno",
+      "power": "Marriage, sky, queen of the gods",
+      "symbol": "Royal sceptre",
+      "father": "Cronus",
+      "mother": "Rhea",
+      "image": "https://pm1.narvii.com/7217/ba44a1d8cdac577e4db5f14edb9edf671c27a736r1-922-1011v2_hq.jpg"
+    },
+    {
+      "name": "Hermes",
+      "romanname": "Mercurius, Mercury",
+      "power": "Herds, trade, thievery, athletics, messengers",
+      "symbol": "Caduceus (herald's wand)",
+      "father": "Zeus",
+      "mother": "Maia",
+      "image": "https://i.pinimg.com/736x/40/44/9d/40449d83de7a5ecb448858337e294a49.jpg"
+    },
+    {
+      "name": "Poseidon",
+      "romanname": "Neptune, ",
+      "power": "King of the Sea, earthquakes, floods, horses",
+      "symbol": " Trident, Bull, horse, dolphin",
+      "father": "Cronus",
+      "mother": "Rhea",
+      "image": "http://4.bp.blogspot.com/-ydayPL0hHr0/UPWjIvcaIAI/AAAAAAAAAjc/eWkYvZ3d37o/s1600/posiedon+5.jpg"
+    },
+    {
+      "name": "Zeus",
+      "romanname": "Jupiter",
+      "power": "Sky, weather, kings, fate",
+      "symbol": "Lightning bolt, eagle, bull",
+      "father": "Cronus",
+      "mother": "Rhea",
+      "image": "http://wallpapercave.com/wp/xgDD6pl.jpg"
+    },
+    {
+      "name": "Hestia",
+      "romanname": "Vesta",
+      "power": "Hearth, home",
+      "symbol": "Kettle",
+      "father": "Cronus",
+      "mother": "Rhea",
+      "image": "http://vignette3.wikia.nocookie.net/p__/images/a/aa/Hestia.png/revision/latest?cb=20130426022556&path-prefix=protagonist"
+    },
+    {
+      "name": "Atlas",
+      "romanname": "Atlas",
+      "power": "Bearer of the heavens, astronomy",
+      "symbol": "Celestial sphere",
+      "father": "Iapetus",
+      "mother": "Clymene",
+      "image": "http://images2.wikia.nocookie.net/__cb20120702001507/greekmythology/images/1/14/Atlas_and_the_earth.jpg"
+    },
+    {
+      "name": "Cronus",
+      "romanname": "Saturnus, Saturn",
+      "power": "Time, king of the Titans",
+      "symbol": "Sickle",
+      "father": "Uranus",
+      "mother": "Gaea",
+      "image": "https://factfile.org/wp-content/uploads/2016/05/Cronus-Power.jpg"
+    },
+    {
+      "name": "Oceanus",
+      "romanname": "Oceanus",
+      "power": "River Oceanus, fresh water",
+      "symbol": "Serpent, fish",
+      "father": "Uranus",
+      "mother": "Gaea",
+      "image": "https://vignette.wikia.nocookie.net/olympians/images/f/ff/Oceanus.jpg/revision/latest?cb=20171204032527"
+    },
+    {
+      "name": "Prometheus",
+      "romanname": "Prometheus",
+      "power": "Forethought, crafty counsel",
+      "symbol": "None",
+      "father": "Iapetus",
+      "mother": "Clymene",
+      "image": "https://www.worldhistoryedu.com/wp-content/uploads/2019/04/Prometheus.jpeg"
+    },
+    {
+      "name": "Persephone",
+      "romanname": "Proserpina",
+      "power": "Spring, queen of the underworld",
+      "symbol": "Torch",
+      "father": "Zeus",
+      "mother": "Demeter",
+      "image": "http://paigeentwistle.com/wp-content/uploads/2015/12/persephone.jpg"
+    },
+    {
+      "name": "Sirens",
+      "romanname": "Sirens",
+      "power": "Bodies of birds, heads of women",
+      "symbol": "None",
+      "father": "Achelous",
+      "mother": "Melpomene",
+      "image": "https://i.pinimg.com/originals/47/b6/11/47b6119d2ba5c960b0fb4cb022c63572.jpg"
+    }
+]
+}

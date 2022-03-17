@@ -1,25 +1,38 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from "react"
+import Header from "./components/Header"
+import GodsPage from "./components/GodsPage"
 
-function App() {
+function App(){
+  
+  const [godsList, setGodsList] = useState([])
+  const [search, setSearch] = useState("")
+
+  function searchChange(newSearch){
+      setSearch(newSearch)
+  }
+
+  const filteredGods = godsList.filter((god) => god.name.toLowerCase().includes(search.toLowerCase()))
+
+  useEffect(() => {
+    fetch("http://localhost:3004/gods")
+      .then(res => res.json())
+      .then(godsList => setGodsList(godsList))
+  }, [])
+
+
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <Header search={search} searchChange={searchChange} />
+      <GodsPage godsList={godsList} filteredGods={filteredGods} />
+
     </div>
-  );
+  )
+
 }
 
-export default App;
+
+
+
+export default App; 
