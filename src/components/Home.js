@@ -5,7 +5,7 @@ const image= "https://www.ancient-origins.net/sites/default/files/field/image/On
 function Home(){
     return(
         <div>
-            <h1 className="homeHeader">Welcome to the Pantheon</h1>
+            <h1 className="homeHeader">Welcome to the Pantheon!</h1>
             <img className="photo" src={image} />
         </div>
     )
