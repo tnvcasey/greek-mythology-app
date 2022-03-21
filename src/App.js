@@ -43,12 +43,12 @@ function App(){
         <Route path="/home">
           <Home />
         </Route>
+        <Route path="/gods/new">
+          <CreateGod handleAddGod={handleAddGod} />
+        </Route>
         <Route path="/gods">
           <Header search={search} searchChange={searchChange} />
           <GodsPage deleteGod={deleteGod} godsList={godsList} filteredGods={filteredGods} />  
-        </Route>
-        <Route path="/gods/new">
-          <CreateGod handleAddGod={handleAddGod} />
         </Route>
       </Switch>
     </div>
