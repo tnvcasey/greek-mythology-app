@@ -23,20 +23,16 @@ function App(){
       .then(godsList => setGodsList(godsList))
   }, [])
 
-  function deleteGod(name){
-      fetch("http://localhost:3004/gods/${name}", {
-          method: "DELETE"
-      })
-      const updatedGods = godsList.filter((god) => god.name !== name)
-      setGodsList(updatedGods)
-
-  }
 
   function handleAddGod(newGod){
     const updatedGods= [...godsList, newGod]
     setGodsList(updatedGods)
   }
 
+  function handleDelete(deletedGod){
+    const updatedGods = godsList.filter((god) => god.name !== deletedGod.name)
+    setGodsList(updatedGods)
+}
 
   return (
     <div className="app">
@@ -50,7 +46,7 @@ function App(){
         </Route>
         <Route path="/gods">
           <Header search={search} searchChange={searchChange} />
-          <GodsPage deleteGod={deleteGod} godsList={godsList} filteredGods={filteredGods} />  
+        <GodsPage handleDelete={handleDelete} godsList={godsList} filteredGods={filteredGods} />  
         </Route>
       </Switch>
     </div>

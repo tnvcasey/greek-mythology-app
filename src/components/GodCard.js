@@ -1,10 +1,16 @@
 import React from "react";
 
-function GodCard({ god, deleteGod }) {
+function GodCard({ god, handleDelete }) {
 
-    function handleDelete(){
-        deleteGod(god.name)
-    }
+    function deleteGod(){
+        fetch("http://localhost:3004/gods/${god.name}", {
+            method: "DELETE",
+        })
+            .then(res => res.json())
+            .then(() => handleDelete(god))
+    };
+
+
 
     const { image, name, romanname, power } = god; 
     
@@ -14,7 +20,7 @@ function GodCard({ god, deleteGod }) {
             <h1>{name}</h1>
             <span>Roman Name: {romanname}</span>
             <h3>Power: {power}</h3>
-            <button class="secondary" onClick={handleDelete}>Delete</button>
+            <button class="secondary" onClick={deleteGod}>Delete</button>
         </li>
     
 

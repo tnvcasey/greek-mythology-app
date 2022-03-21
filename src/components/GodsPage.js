@@ -1,13 +1,13 @@
 import React from "react";
 import GodCard from "./GodCard";
 
-function GodsPage({ filteredGods, deleteGod }) {
+function GodsPage({ filteredGods, handleDelete }) {
     return(
         <div>
             <h1 className="headerGods">* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *</h1>
             <ul className="cards">
                 {filteredGods.map((god) => (
-                    <GodCard key={god.name} god={god} deleteGod={deleteGod} />
+                    <GodCard key={god.name} god={god} handleDelete={handleDelete} />
                 ))}
             </ul>
         </div>
