@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from "react"
-import Home from "./components/Home"
+import Header from "./components/Header"
 import GodsPage from "./components/GodsPage"
+import CreateGod from "./components/CreateGod"
+import Home from "./components/Home"
+import { Route, Switch } from "react-router-dom"
 
 function App(){
   
@@ -28,16 +31,26 @@ function App(){
 
   }
 
-
-
-
+  function handleAddGod(newGod){
+    const updatedGods= [...godsList, newGod]
+    setGodsList(updatedGods)
+  }
 
 
   return (
     <div className="app">
-      <Home search={search} searchChange={searchChange} />
-      <GodsPage deleteGod={deleteGod} godsList={godsList} filteredGods={filteredGods} />
-
+      <Switch>
+        <Route path="/home">
+          <Home />
+        </Route>
+        <Route path="/gods">
+          <Header search={search} searchChange={searchChange} />
+          <GodsPage deleteGod={deleteGod} godsList={godsList} filteredGods={filteredGods} />  
+        </Route>
+        <Route path="/gods/new">
+          <CreateGod handleAddGod={handleAddGod} />
+        </Route>
+      </Switch>
     </div>
   )
 
