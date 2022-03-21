@@ -82,7 +82,7 @@ main {
 
 .searchbar {
   padding: 1rem;
-  display: flex;
+  display: left;
   flex-direction: column;
 }
 
@@ -145,4 +145,9 @@ input:focus {
   font-size: 3rem;
   text-align: center;
 
+}
+
+.headerGods{
+  font-size: 3rem;
+  text-align: center;
 }
