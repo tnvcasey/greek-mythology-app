@@ -139,3 +139,10 @@ input:focus {
     width: calc(50% - 2rem);
   }
 }
+
+.homeHeader{
+  padding: 20px;
+  font-size: 3rem;
+  text-align: center;
+
+}

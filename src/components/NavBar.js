@@ -3,10 +3,10 @@ import { NavLink } from "react-router-dom";
 
 const linkStyles = {
   display: "inline-block",
-  width: "50px",
-  padding: "12px",
-  margin: "0 6px 6px",
-  background: "gold",
+  width: "80px",
+  padding: "9px",
+  margin: "0 6px 3px",
+  background: "red",
   textDecoration: "none",
   color: "white",
 }; 
@@ -15,7 +15,7 @@ function NavBar() {
     return (
       <div>
         <NavLink
-          to="/"
+          to="/home"
           exact
           style={linkStyles}
           activeStyle={{
@@ -25,7 +25,7 @@ function NavBar() {
           Home
         </NavLink>
         <NavLink
-          to="/godCard"
+          to="/gods"
           exact
           style={linkStyles}
           activeStyle={{
@@ -35,14 +35,14 @@ function NavBar() {
           Gods
         </NavLink>
         <NavLink
-          to="/createGod"
+          to="/gods/new"
           exact
           style={linkStyles}
           activeStyle={{
             background: "darkblue",
           }}
         >
-          Create a God
+          Create
         </NavLink>
     </div>
     );

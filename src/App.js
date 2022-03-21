@@ -4,6 +4,7 @@ import GodsPage from "./components/GodsPage"
 import CreateGod from "./components/CreateGod"
 import Home from "./components/Home"
 import { Route, Switch } from "react-router-dom"
+import NavBar from "./components/NavBar"
 
 function App(){
   
@@ -39,6 +40,7 @@ function App(){
 
   return (
     <div className="app">
+      <NavBar />
       <Switch>
         <Route path="/home">
           <Home />
