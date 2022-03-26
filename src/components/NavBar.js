@@ -25,7 +25,7 @@ function NavBar() {
           Home
         </NavLink>
         <NavLink
-          to="/gods"
+          to="/godslist"
           exact
           style={linkStyles}
           activeStyle={{

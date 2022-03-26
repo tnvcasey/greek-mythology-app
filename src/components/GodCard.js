@@ -3,10 +3,10 @@ import React from "react";
 function GodCard({ god, handleDelete }) {
 
     function deleteGod(){
-        fetch("http://localhost:3004/gods/${god.name}", {
+        fetch(`http://localhost:3004/gods/${god.id}`, {
             method: "DELETE",
         })
-            .then(res => res.json())
+            .then((res) => res.json())
             .then(() => handleDelete(god))
     };
 

@@ -1,6 +1,7 @@
 {
   "gods": [
     {
+      "id": 1,
       "name": "Aphrodite",
       "romanname": "Venus",
       "power": "Love, beauty, procreation",
@@ -10,6 +11,7 @@
       "image": "https://i.etsystatic.com/5801272/r/il/0e49ff/1419919515/il_794xN.1419919515_q77t.jpg"
     },
     {
+      "id": 2,
       "name": "Apollo",
       "romanname": "Apollo",
       "power": "Music, prophecy, healing, archery",
@@ -19,6 +21,7 @@
       "image": "https://cdn.thinglink.me/api/image/598940036477485057/1024/10/scaletowidth/0/0/1/1/false/true?wait=true"
     },
     {
+      "id": 3,
       "name": "Ares",
       "romanname": "Mars",
       "power": "War, courage, battlelust",
@@ -28,6 +31,7 @@
       "image": "http://mythologian.net/wp-content/uploads/2012/08/ares.jpg"
     },
     {
+      "id": 4,
       "name": "Artemis",
       "romanname": "Diana",
       "power": "Hunting, wild animals, children",
@@ -37,6 +41,7 @@
       "image": "http://1.bp.blogspot.com/-mkn-ZXq5XGM/UPWlHTPorgI/AAAAAAAAAvU/gIYz2JBdhMg/s1600/artemis__goddess_of_the_hunt_by_violscraper.jpg"
     },
     {
+      "id": 5,
       "name": "Athena",
       "romanname": "Minerva",
       "power": "Wisdom, war, weaving, crafts",
@@ -46,6 +51,7 @@
       "image": "https://i.pinimg.com/originals/b2/0d/8b/b20d8b2f72a3573ed6328da2f00c699c.jpg"
     },
     {
+      "id": 6,
       "name": "Demeter",
       "romanname": "Ceres",
       "power": "Grain, bread, agriculture",
@@ -55,6 +61,7 @@
       "image": "http://2.bp.blogspot.com/-J49l2N33zlw/Tr7Zw5FDuDI/AAAAAAAAACg/dIHeqmqkuQM/s1600/Demeter+Goddess..jpg"
     },
     {
+      "id": 7,
       "name": "Dionysus",
       "romanname": "Liber",
       "power": "Wine, festivity, madness",
@@ -64,6 +71,7 @@
       "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/dionysus-or-bacchus-god-of-wine-science-source.jpg"
     },
     {
+      "id": 8,
       "name": "Hephaestus",
       "romanname": "Vulcan",
       "power": "Smiths, fire, metalworking",
@@ -73,6 +81,7 @@
       "image": "https://pre06.deviantart.net/ef3b/th/pre/f/2011/321/b/6/hephaestus_by_drawingformonkeys-d4gisc2.jpg"
     },
     {
+      "id": 9,
       "name": "Hera",
       "romanname": "Juno",
       "power": "Marriage, sky, queen of the gods",
@@ -82,6 +91,7 @@
       "image": "https://pm1.narvii.com/7217/ba44a1d8cdac577e4db5f14edb9edf671c27a736r1-922-1011v2_hq.jpg"
     },
     {
+      "id": 10, 
       "name": "Hermes",
       "romanname": "Mercurius, Mercury",
       "power": "Herds, trade, thievery, athletics, messengers",
@@ -91,6 +101,7 @@
       "image": "https://i.pinimg.com/736x/40/44/9d/40449d83de7a5ecb448858337e294a49.jpg"
     },
     {
+      "id": 11, 
       "name": "Poseidon",
       "romanname": "Neptune, ",
       "power": "King of the Sea, earthquakes, floods, horses",
@@ -100,6 +111,7 @@
       "image": "http://4.bp.blogspot.com/-ydayPL0hHr0/UPWjIvcaIAI/AAAAAAAAAjc/eWkYvZ3d37o/s1600/posiedon+5.jpg"
     },
     {
+      "id": 12, 
       "name": "Zeus",
       "romanname": "Jupiter",
       "power": "Sky, weather, kings, fate",
@@ -109,6 +121,7 @@
       "image": "http://wallpapercave.com/wp/xgDD6pl.jpg"
     },
     {
+      "id": 13, 
       "name": "Hestia",
       "romanname": "Vesta",
       "power": "Hearth, home",
@@ -118,6 +131,7 @@
       "image": "http://vignette3.wikia.nocookie.net/p__/images/a/aa/Hestia.png/revision/latest?cb=20130426022556&path-prefix=protagonist"
     },
     {
+      "id": 14, 
       "name": "Atlas",
       "romanname": "Atlas",
       "power": "Bearer of the heavens, astronomy",
@@ -127,6 +141,7 @@
       "image": "http://images2.wikia.nocookie.net/__cb20120702001507/greekmythology/images/1/14/Atlas_and_the_earth.jpg"
     },
     {
+      "id": 15, 
       "name": "Cronus",
       "romanname": "Saturnus, Saturn",
       "power": "Time, king of the Titans",
@@ -136,6 +151,7 @@
       "image": "https://factfile.org/wp-content/uploads/2016/05/Cronus-Power.jpg"
     },
     {
+      "id": 16,
       "name": "Oceanus",
       "romanname": "Oceanus",
       "power": "River Oceanus, fresh water",
@@ -145,6 +161,7 @@
       "image": "https://vignette.wikia.nocookie.net/olympians/images/f/ff/Oceanus.jpg/revision/latest?cb=20171204032527"
     },
     {
+      "id": 17, 
       "name": "Prometheus",
       "romanname": "Prometheus",
       "power": "Forethought, crafty counsel",
@@ -154,6 +171,7 @@
       "image": "https://www.worldhistoryedu.com/wp-content/uploads/2019/04/Prometheus.jpeg"
     },
     {
+      "id": 18, 
       "name": "Persephone",
       "romanname": "Proserpina",
       "power": "Spring, queen of the underworld",
@@ -163,6 +181,7 @@
       "image": "http://paigeentwistle.com/wp-content/uploads/2015/12/persephone.jpg"
     },
     {
+      "id": 19, 
       "name": "Sirens",
       "romanname": "Sirens",
       "power": "Bodies of birds, heads of women",

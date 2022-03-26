@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from "react"
-import Header from "./components/Header"
-import GodsPage from "./components/GodsPage"
-import CreateGod from "./components/CreateGod"
-import Home from "./components/Home"
+import Header from "./Header"
+import GodsPage from "./GodsPage"
+import CreateGod from "./CreateGod"
+import Home from "./Home"
 import { Route, Switch } from "react-router-dom"
-import NavBar from "./components/NavBar"
+import NavBar from "./NavBar"
 
 function App(){
   
@@ -18,7 +18,7 @@ function App(){
   const filteredGods = godsList.filter((god) => god.name.toLowerCase().includes(search.toLowerCase()))
 
   useEffect(() => {
-    fetch(`http://localhost:3004/gods`)
+    fetch("http://localhost:3004/gods")
       .then(res => res.json())
       .then(godsList => setGodsList(godsList))
   }, [])
