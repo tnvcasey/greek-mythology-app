@@ -179,6 +179,21 @@
       "father": "Zeus",
       "mother": "Demeter",
       "image": "http://paigeentwistle.com/wp-content/uploads/2015/12/persephone.jpg"
+    },
+    {
+      "name": "apple",
+      "power": "Strength",
+      "id": 19
+    },
+    {
+      "name": "Apple",
+      "power": "Strength",
+      "id": 20
+    },
+    {
+      "name": "Apple",
+      "power": "Strength",
+      "id": 21
     }
   ]
 }
