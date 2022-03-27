@@ -91,7 +91,7 @@
       "image": "https://pm1.narvii.com/7217/ba44a1d8cdac577e4db5f14edb9edf671c27a736r1-922-1011v2_hq.jpg"
     },
     {
-      "id": 10,
+      "id": 10, 
       "name": "Hermes",
       "romanname": "Mercurius, Mercury",
       "power": "Herds, trade, thievery, athletics, messengers",
@@ -101,7 +101,7 @@
       "image": "https://i.pinimg.com/736x/40/44/9d/40449d83de7a5ecb448858337e294a49.jpg"
     },
     {
-      "id": 11,
+      "id": 11, 
       "name": "Poseidon",
       "romanname": "Neptune, ",
       "power": "King of the Sea, earthquakes, floods, horses",
@@ -111,7 +111,7 @@
       "image": "http://4.bp.blogspot.com/-ydayPL0hHr0/UPWjIvcaIAI/AAAAAAAAAjc/eWkYvZ3d37o/s1600/posiedon+5.jpg"
     },
     {
-      "id": 12,
+      "id": 12, 
       "name": "Zeus",
       "romanname": "Jupiter",
       "power": "Sky, weather, kings, fate",
@@ -121,7 +121,7 @@
       "image": "http://wallpapercave.com/wp/xgDD6pl.jpg"
     },
     {
-      "id": 13,
+      "id": 13, 
       "name": "Hestia",
       "romanname": "Vesta",
       "power": "Hearth, home",
@@ -131,7 +131,7 @@
       "image": "http://vignette3.wikia.nocookie.net/p__/images/a/aa/Hestia.png/revision/latest?cb=20130426022556&path-prefix=protagonist"
     },
     {
-      "id": 14,
+      "id": 14, 
       "name": "Atlas",
       "romanname": "Atlas",
       "power": "Bearer of the heavens, astronomy",
@@ -141,7 +141,7 @@
       "image": "http://images2.wikia.nocookie.net/__cb20120702001507/greekmythology/images/1/14/Atlas_and_the_earth.jpg"
     },
     {
-      "id": 15,
+      "id": 15, 
       "name": "Cronus",
       "romanname": "Saturnus, Saturn",
       "power": "Time, king of the Titans",
@@ -161,7 +161,7 @@
       "image": "https://vignette.wikia.nocookie.net/olympians/images/f/ff/Oceanus.jpg/revision/latest?cb=20171204032527"
     },
     {
-      "id": 17,
+      "id": 17, 
       "name": "Prometheus",
       "romanname": "Prometheus",
       "power": "Forethought, crafty counsel",
@@ -171,7 +171,7 @@
       "image": "https://www.worldhistoryedu.com/wp-content/uploads/2019/04/Prometheus.jpeg"
     },
     {
-      "id": 18,
+      "id": 18, 
       "name": "Persephone",
       "romanname": "Proserpina",
       "power": "Spring, queen of the underworld",
@@ -179,136 +179,16 @@
       "father": "Zeus",
       "mother": "Demeter",
       "image": "http://paigeentwistle.com/wp-content/uploads/2015/12/persephone.jpg"
-    }, 
-    {
-      "id": 19, 
-      "name": "Nike",
-      "romanname": "Victoria",
-      "power": "Victory",
-      "symbol": "Palm branch, wings",
-      "father": "Pallas",
-      "mother": "Styx",
-      "url": "http://www.theoi.com/image/T24.1Nike.jpg"
     },
     {
-      "id": 20, 
-      "name": "Themis",
-      "romanname": "Themis",
-      "power": "Divine law, custom, assemblies, oracles",
-      "symbol": "Tripod",
-      "father": "Uranus",
-      "mother": "Gaea",
-      "url": "http://www.theoi.com/image/T8.1Themis.jpg"
-    },
-    {
-      "id":21, 
-      "name": "Tyche",
-      "romanname": "Fortuna",
-      "power": "Fortune, luck",
-      "symbol": "Cornucopia, rudder",
-      "father": "Oceanus",
-      "mother": "Tethys",
-      "url": "http://www.theoi.com/image/N16.1Nemesis.jpg"
-    },
-    {
-      "id": 22, 
-      "name": "Mnemosyne",
-      "romanname": "Moneta",
-      "power": "Memory",
-      "symbol": "Mount Pieria",
-      "father": "Uranus",
-      "mother": "Gaea",
-      "url": "http://www.theoi.com/image/img_mnemosyne.jpg"
-    },
-    {
-      "id":23, 
-      "name": "Oceanus",
-      "romanname": "Oceanus",
-      "power": "River Oceanus, fresh water",
-      "symbol": "Serpent, fish",
-      "father": "Uranus",
-      "mother": "Gaea",
-      "url": "http://www.theoi.com/image/O1.1Okeanos.jpg"
-    },
-    {
-      "id":24, 
-      "name": "Rhea",
-      "romanname": "Ops, Opis",
-      "power": "Mother of the gods, mountains",
-      "symbol": "Turret crown, cymbal",
-      "father": "Uranus",
-      "mother": "Gaea",
-      "url": "http://www.theoi.com/image/T7.1Rhea.jpg"
-    },
-    {
-      "id":25, 
-      "name": "Tethys",
-      "romanname": "Tethys",
-      "power": "Fresh water, nursing",
-      "symbol": "Winged brow",
-      "father": "Uranus",
-      "mother": "Gaea",
-      "url": "http://www.theoi.com/image/Z35.4Okeanos.jpg"
-    },
-    {
-      "id": 26, 
-      "name": "Asteria",
-      "romanname": "Asteria",
-      "power": "Shooting stars, nighttime divination",
+      "id": 19,
+      "name": "Sirens",
+      "romanname": "Sirens",
+      "power": "Bodies of birds, heads of women",
       "symbol": "None",
-      "father": "Coeus",
-      "mother": "Phoebe",
-      "url": "http://www.theoi.com/image/T15.1Asteria.jpg"
-    },
-    {
-      "id": 27, 
-      "name": "Eos",
-      "romanname": "Aurora",
-      "power": "The dawn",
-      "symbol": "None",
-      "father": "Hyperion",
-      "mother": "Thea",
-      "url": "http://www.theoi.com/image/T19.1Eos.jpg"
-    },
-    {
-      "id": 28, 
-      "name": "Hecate",
-      "romanname": "Trivia",
-      "power": "Witchcraft, magic, ghosts",
-      "symbol": "Two torches",
-      "father": "Perses",
-      "mother": "Asteria",
-      "url": "http://www.theoi.com/image/img_hekate.jpg"
-    },
-    {
-      "id": 29, 
-      "name": "Helius",
-      "romanname": "Sol",
-      "power": "The sun, sight",
-      "symbol": "Aureole",
-      "father": "Hyperion",
-      "mother": "Thea",
-      "url": "http://www.theoi.com/image/T17.1Helios.jpg"
-    },
-    {
-      "id": 30, 
-      "name": "Selene",
-      "romanname": "Luna",
-      "power": "The moon",
-      "symbol": "Lunar disc or crescent, bull's horns",
-      "father": "Hyperion",
-      "mother": "Thea",
-      "url": "http://www.theoi.com/image/T18.1Selene.jpg"
-    },
-    {
-      "id": 31,
-      "name": "Ananke",
-      "romanname": "Necessitas",
-      "power": "Necessity, compulsion",
-      "symbol": "Torch",
-      "father": "Hydros",
-      "mother": "Gaea",
-      "url": "http://www.theoi.com/image/N2.1Ananke.jpg"
+      "father": "Achelous",
+      "mother": "Melpomene",
+      "image": "https://i.pinimg.com/originals/47/b6/11/47b6119d2ba5c960b0fb4cb022c63572.jpg"
     }
   ]
 }
