@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+Greek Mythology App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Welcome
 
-In the project directory, you can run:
+Welcome to the Greek Mythology App! Here you will be able to navigate to a few different spots that show you some information and images of Greek Gods. You will also be able to create a new god, or fill out information for a god that you know about but isn't on the page yet. 
 
-### `npm start`
+Have fun!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Setup
+1. Run `npm run server. This will run the backend on the port `3004`. 
+2. In a new terminal, run `npm start`. 
 
-### `npm test`
+After running this setup, the webpage should open in your internet browser showing: `http://localhost:3004/gods`. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## CRUD Info
+This app fetches information from a db.json, that was copied over from 
+`https://github.com/Dane-Dawson/json-server-collection/blob/main/greek-mythology/db.json`. 
+This info is compiled in the form of an object and shows different Greek Gods and Goddesses, and info for each including their...
+1. Name
+2. Roman Name
+3. Power
+4. An Image of them
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The app uses a "GET" through the url `http://localhost:3004/gods`
+The app also uses a "DELETE through the url `http://localhost:3004/gods/${god.id}`. 
+The app also uses a "POST" through the url `http://localhost:3004/gods`. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Feel free to add, and delete gods as you wish! 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Routes
+This webpage uses different routes to navigate to different parts of the app (home, godslist, gods/new). 
+On the godslist page, you are able to use a search bar to search through the gods that are listed on that page. 
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I hope you enjoy the app! Thanks for checking it out!
