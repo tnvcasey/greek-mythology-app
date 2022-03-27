@@ -179,21 +179,136 @@
       "father": "Zeus",
       "mother": "Demeter",
       "image": "http://paigeentwistle.com/wp-content/uploads/2015/12/persephone.jpg"
+    }, 
+    {
+      "id": 19, 
+      "name": "Nike",
+      "romanname": "Victoria",
+      "power": "Victory",
+      "symbol": "Palm branch, wings",
+      "father": "Pallas",
+      "mother": "Styx",
+      "url": "http://www.theoi.com/image/T24.1Nike.jpg"
     },
     {
-      "name": "apple",
-      "power": "Strength",
-      "id": 19
+      "id": 20, 
+      "name": "Themis",
+      "romanname": "Themis",
+      "power": "Divine law, custom, assemblies, oracles",
+      "symbol": "Tripod",
+      "father": "Uranus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/T8.1Themis.jpg"
     },
     {
-      "name": "Apple",
-      "power": "Strength",
-      "id": 20
+      "id":21, 
+      "name": "Tyche",
+      "romanname": "Fortuna",
+      "power": "Fortune, luck",
+      "symbol": "Cornucopia, rudder",
+      "father": "Oceanus",
+      "mother": "Tethys",
+      "url": "http://www.theoi.com/image/N16.1Nemesis.jpg"
     },
     {
-      "name": "Apple",
-      "power": "Strength",
-      "id": 21
+      "id": 22, 
+      "name": "Mnemosyne",
+      "romanname": "Moneta",
+      "power": "Memory",
+      "symbol": "Mount Pieria",
+      "father": "Uranus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/img_mnemosyne.jpg"
+    },
+    {
+      "id":23, 
+      "name": "Oceanus",
+      "romanname": "Oceanus",
+      "power": "River Oceanus, fresh water",
+      "symbol": "Serpent, fish",
+      "father": "Uranus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/O1.1Okeanos.jpg"
+    },
+    {
+      "id":24, 
+      "name": "Rhea",
+      "romanname": "Ops, Opis",
+      "power": "Mother of the gods, mountains",
+      "symbol": "Turret crown, cymbal",
+      "father": "Uranus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/T7.1Rhea.jpg"
+    },
+    {
+      "id":25, 
+      "name": "Tethys",
+      "romanname": "Tethys",
+      "power": "Fresh water, nursing",
+      "symbol": "Winged brow",
+      "father": "Uranus",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/Z35.4Okeanos.jpg"
+    },
+    {
+      "id": 26, 
+      "name": "Asteria",
+      "romanname": "Asteria",
+      "power": "Shooting stars, nighttime divination",
+      "symbol": "None",
+      "father": "Coeus",
+      "mother": "Phoebe",
+      "url": "http://www.theoi.com/image/T15.1Asteria.jpg"
+    },
+    {
+      "id": 27, 
+      "name": "Eos",
+      "romanname": "Aurora",
+      "power": "The dawn",
+      "symbol": "None",
+      "father": "Hyperion",
+      "mother": "Thea",
+      "url": "http://www.theoi.com/image/T19.1Eos.jpg"
+    },
+    {
+      "id": 28, 
+      "name": "Hecate",
+      "romanname": "Trivia",
+      "power": "Witchcraft, magic, ghosts",
+      "symbol": "Two torches",
+      "father": "Perses",
+      "mother": "Asteria",
+      "url": "http://www.theoi.com/image/img_hekate.jpg"
+    },
+    {
+      "id": 29, 
+      "name": "Helius",
+      "romanname": "Sol",
+      "power": "The sun, sight",
+      "symbol": "Aureole",
+      "father": "Hyperion",
+      "mother": "Thea",
+      "url": "http://www.theoi.com/image/T17.1Helios.jpg"
+    },
+    {
+      "id": 30, 
+      "name": "Selene",
+      "romanname": "Luna",
+      "power": "The moon",
+      "symbol": "Lunar disc or crescent, bull's horns",
+      "father": "Hyperion",
+      "mother": "Thea",
+      "url": "http://www.theoi.com/image/T18.1Selene.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Ananke",
+      "romanname": "Necessitas",
+      "power": "Necessity, compulsion",
+      "symbol": "Torch",
+      "father": "Hydros",
+      "mother": "Gaea",
+      "url": "http://www.theoi.com/image/N2.1Ananke.jpg"
     }
   ]
 }
