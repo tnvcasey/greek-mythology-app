@@ -23,7 +23,7 @@ This info is compiled in the form of an object and shows different Greek Gods an
 1. Name
 2. Roman Name
 3. Power
-4. An Image of them
+4. An Image of them (each of these images was found on Google.)
 
 The app uses a "GET" through the url `http://localhost:3004/gods`
 The app also uses a "DELETE through the url `http://localhost:3004/gods/${god.id}`. 
@@ -36,3 +36,6 @@ This webpage uses different routes to navigate to different parts of the app (ho
 On the godslist page, you are able to use a search bar to search through the gods that are listed on that page. 
 
 I hope you enjoy the app! Thanks for checking it out!
+
+Here's a link to youtube if you want a visual walkthrough of the app. 
+`https://youtu.be/laXxeU6DyGw`.
