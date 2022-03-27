@@ -7,8 +7,6 @@ function CreateGod({ handleAddGod }){
     const [romanname, setRomanname] = useState("")
     const [power, setPower] = useState("")
     
-
-    
       function handleSubmit(e){
         e.preventDefault();
         const godData ={
@@ -31,7 +29,7 @@ function CreateGod({ handleAddGod }){
 
     return (
         <div>
-            <h1>Create A New God</h1>
+            <h1>Create A New God!</h1>
                 <form onSubmit={handleSubmit}>
                     <input type="text" name="image" placeholder="Image URL" value={image} onChange={(e) => setImage(e.target.value)} />
                     <input type="text" name="name" placeholder="God Name" value={name} onChange={(e) => setName(e.target.value)} />
