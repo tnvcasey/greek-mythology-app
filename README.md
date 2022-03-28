@@ -39,3 +39,13 @@ I hope you enjoy the app! Thanks for checking it out!
 
 Here's a link to youtube if you want a visual walkthrough of the app. 
 `https://youtu.be/laXxeU6DyGw`.
+
+
+## Images
+"https://i.etsystatic.com/5801272/r/il/0e49ff/1419919515/il_794xN.1419919515_q77t.jpg"
+"https://cdn.thinglink.me/api/image/598940036477485057/1024/10/scaletowidth/0/0/1/1/false/true?wait=true"
+"http://mythologian.net/wp-content/uploads/2012/08/ares.jpg"
+"http://1.bp.blogspot.com/-mkn-ZXq5XGM/UPWlHTPorgI/AAAAAAAAAvU/gIYz2JBdhMg/s1600/artemis__goddess_of_the_hunt_by_violscraper.jpg"
+"https://i.pinimg.com/originals/b2/0d/8b/b20d8b2f72a3573ed6328da2f00c699c.jpg"
+"http://2.bp.blogspot.com/-J49l2N33zlw/Tr7Zw5FDuDI/AAAAAAAAACg/dIHeqmqkuQM/s1600/Demeter+Goddess..jpg"
+"https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/dionysus-or-bacchus-god-of-wine-science-source.jpg"
