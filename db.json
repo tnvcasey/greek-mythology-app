@@ -33,9 +33,6 @@
       "name": "Athena",
       "romanname": "Minerva",
       "power": "Wisdom, war, weaving, crafts",
-      "symbol": "Aegis, gorgoneion",
-      "father": "Zeus",
-      "mother": "Metis",
       "image": "https://i.pinimg.com/originals/b2/0d/8b/b20d8b2f72a3573ed6328da2f00c699c.jpg"
     },
     {
@@ -43,9 +40,6 @@
       "name": "Demeter",
       "romanname": "Ceres",
       "power": "Grain, bread, agriculture",
-      "symbol": "Sheaf of grain, cornucopia",
-      "father": "Cronus",
-      "mother": "Rhea",
       "image": "http://2.bp.blogspot.com/-J49l2N33zlw/Tr7Zw5FDuDI/AAAAAAAAACg/dIHeqmqkuQM/s1600/Demeter+Goddess..jpg"
     },
     {
@@ -53,9 +47,6 @@
       "name": "Dionysus",
       "romanname": "Liber",
       "power": "Wine, festivity, madness",
-      "symbol": "Thyrsus (pine-cone staff)",
-      "father": "Zeus",
-      "mother": "Semele",
       "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/dionysus-or-bacchus-god-of-wine-science-source.jpg"
     },
     {
