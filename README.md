@@ -54,3 +54,10 @@ Here's a link to youtube if you want a visual walkthrough of the app.
 "https://i.pinimg.com/736x/40/44/9d/40449d83de7a5ecb448858337e294a49.jpg"
 "http://4.bp.blogspot.com/-ydayPL0hHr0/UPWjIvcaIAI/AAAAAAAAAjc/eWkYvZ3d37o/s1600/posiedon+5.jpg"
 "http://wallpapercave.com/wp/xgDD6pl.jpg"
+"http://vignette3.wikia.nocookie.net/p__/images/a/aa/Hestia.png/revision/latest?cb=20130426022556&path-prefix=protagonist"
+"http://images2.wikia.nocookie.net/__cb20120702001507/greekmythology/images/1/14/Atlas_and_the_earth.jpg"
+"https://factfile.org/wp-content/uploads/2016/05/Cronus-Power.jpg"
+"https://vignette.wikia.nocookie.net/olympians/images/f/ff/Oceanus.jpg/revision/latest?cb=20171204032527"
+"http://paigeentwistle.com/wp-content/uploads/2015/12/persephone.jpg"
+
+
