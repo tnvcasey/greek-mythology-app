@@ -41,7 +41,7 @@ Here's a link to youtube if you want a visual walkthrough of the app.
 `https://youtu.be/laXxeU6DyGw`.
 
 
-## Images
+## Image Credits
 "https://i.etsystatic.com/5801272/r/il/0e49ff/1419919515/il_794xN.1419919515_q77t.jpg"
 "https://cdn.thinglink.me/api/image/598940036477485057/1024/10/scaletowidth/0/0/1/1/false/true?wait=true"
 "http://mythologian.net/wp-content/uploads/2012/08/ares.jpg"
@@ -59,5 +59,10 @@ Here's a link to youtube if you want a visual walkthrough of the app.
 "https://factfile.org/wp-content/uploads/2016/05/Cronus-Power.jpg"
 "https://vignette.wikia.nocookie.net/olympians/images/f/ff/Oceanus.jpg/revision/latest?cb=20171204032527"
 "http://paigeentwistle.com/wp-content/uploads/2015/12/persephone.jpg"
+"https://i.pinimg.com/originals/47/b6/11/47b6119d2ba5c960b0fb4cb022c63572.jpg"
+"https://vignette.wikia.nocookie.net/fictional-battle-omniverse/images/f/ff/Gaea_Mythology.png/revision/latest?cb=20161216114519"
+
+
+
 
 
