@@ -12,9 +12,6 @@
       "name": "Apollo",
       "romanname": "Apollo",
       "power": "Music, prophecy, healing, archery",
-      "symbol": "Lyre, bow",
-      "father": "Zeus",
-      "mother": "Leto",
       "image": "https://cdn.thinglink.me/api/image/598940036477485057/1024/10/scaletowidth/0/0/1/1/false/true?wait=true"
     },
     {
@@ -22,9 +19,6 @@
       "name": "Ares",
       "romanname": "Mars",
       "power": "War, courage, battlelust",
-      "symbol": "Helm",
-      "father": "Zeus",
-      "mother": "Hera",
       "image": "http://mythologian.net/wp-content/uploads/2012/08/ares.jpg"
     },
     {
@@ -32,9 +26,6 @@
       "name": "Artemis",
       "romanname": "Diana",
       "power": "Hunting, wild animals, children",
-      "symbol": "Bow and arrows",
-      "father": "Zeus",
-      "mother": "Leto",
       "image": "http://1.bp.blogspot.com/-mkn-ZXq5XGM/UPWlHTPorgI/AAAAAAAAAvU/gIYz2JBdhMg/s1600/artemis__goddess_of_the_hunt_by_violscraper.jpg"
     },
     {
