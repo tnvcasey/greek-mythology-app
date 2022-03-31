@@ -23,7 +23,15 @@ function CreateGod({ handleAddGod }){
           body: JSON.stringify(godData), 
         })
           .then((res) => res.json())
-          .then((newGod) => handleAddGod(newGod))
+          .then((newGod) => {
+            handleAddGod(newGod)
+            setImage("")
+            setName("")
+            setRomanname("")
+            setPower("")
+          })
+    
+          
           
       }
 

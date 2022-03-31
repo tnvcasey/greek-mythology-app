@@ -132,6 +132,13 @@
       "romanname": "Terra",
       "power": "The earth",
       "id": 20
+    },
+    {
+      "image": "afdj;la",
+      "name": "iris",
+      "romanname": "Arcus",
+      "power": "The Rainbow",
+      "id": 21
     }
   ]
 }

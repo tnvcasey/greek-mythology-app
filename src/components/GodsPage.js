@@ -7,7 +7,7 @@ function GodsPage({ filteredGods, handleDelete }) {
             <h1 className="headerGods">* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *</h1>
             <ul className="cards">
                 {filteredGods.map((god) => (
-                    <GodCard key={god.name} god={god} handleDelete={handleDelete} />
+                    <GodCard key={god.id} god={god} handleDelete={handleDelete} />
                 ))}
             </ul>
         </div>

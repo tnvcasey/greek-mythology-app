@@ -46,7 +46,7 @@ function App(){
         </Route>
         <Route path="/godslist">
           <Header search={search} searchChange={searchChange} />
-        <GodsPage handleDelete={handleDelete} godsList={godsList} filteredGods={filteredGods} />  
+        <GodsPage handleDelete={handleDelete} filteredGods={filteredGods} />  
         </Route>
       </Switch>
     </div>
