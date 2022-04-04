@@ -120,25 +120,39 @@
       "image": "http://paigeentwistle.com/wp-content/uploads/2015/12/persephone.jpg"
     },
     {
-      "id": 19,
-      "name": "Sirens",
-      "romanname": "Sirens",
-      "power": "Bodies of birds, heads of women",
-      "image": "https://i.pinimg.com/originals/47/b6/11/47b6119d2ba5c960b0fb4cb022c63572.jpg"
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/65/b4/4f/65b44f56918115e6f7c83ce2b4ed8e38.jpg",
+      "name": "Triton",
+      "romanname": "Triton ",
+      "power": "Waves, calm seas, herald of Poseidon",
+      "id": 19
     },
     {
-      "image": "https://vignette.wikia.nocookie.net/fictional-battle-omniverse/images/f/ff/Gaea_Mythology.png/revision/latest?cb=20161216114519",
-      "name": "Gaea",
-      "romanname": "Terra",
-      "power": "The earth",
+      "image": "https://66.media.tumblr.com/b8ec671f1ef724ff974deef15c6f9945/tumblr_nwg2sntDKs1utj0aro1_1280.jpg",
+      "name": "Anemoi",
+      "romanname": "Venti",
+      "power": "The winds",
       "id": 20
     },
     {
-      "image": "http://img12.deviantart.net/c5b1/i/2012/146/a/7/iris__goddess_of_the_rainbow_by_prairiekittin-d517qpg.jpg",
-      "name": "Iris",
-      "romanname": "Arcus",
-      "power": "The Rainbow",
+      "image": "http://astrologyking.com/wp-content/uploads/centaur-chiron.jpg",
+      "name": "Chiron ",
+      "romanname": "Chiron",
+      "power": "Teaching, suregeons",
+      "id": 21
+    },
+    {
+      "image": "http://1.bp.blogspot.com/-4Q-DyhKi1jo/T5UJVUivOXI/AAAAAAAABlk/WsgKa-fwr_w/s1600/breath-taking-forrest-nymph.jpg",
+      "name": "Nymphs ",
+      "romanname": "Nymphs",
+      "power": "Nature",
       "id": 22
+    },
+    {
+      "image": "https://i.pinimg.com/736x/6b/ab/1f/6bab1f93c1ed7df83cdf2b3ac01fc375--hercules-marvel-comics.jpg",
+      "name": "Heracles",
+      "romanname": "Heracles",
+      "power": "Strength",
+      "id": 23
     }
   ]
 }

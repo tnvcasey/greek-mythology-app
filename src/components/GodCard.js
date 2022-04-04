@@ -20,7 +20,7 @@ function GodCard({ god, handleDelete }) {
             <h1>{name}</h1>
             <span>Roman Name: {romanname}</span>
             <h3>Power: {power}</h3>
-            <button class="secondary" onClick={deleteGod}>Delete</button>
+            <button className="secondary" onClick={deleteGod}>Delete</button>
         </li>
     
 

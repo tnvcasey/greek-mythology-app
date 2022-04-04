@@ -30,7 +30,7 @@ function App(){
   }
 
   function handleDelete(deletedGod){
-    const updatedGods = godsList.filter((god) => god.name !== deletedGod.name)
+    const updatedGods = godsList.filter((god) => god.id !== deletedGod.id)
     setGodsList(updatedGods)
 }
 
@@ -46,7 +46,7 @@ function App(){
         </Route>
         <Route path="/godslist">
           <Header search={search} searchChange={searchChange} />
-        <GodsPage handleDelete={handleDelete} filteredGods={filteredGods} />  
+          <GodsPage handleDelete={handleDelete} filteredGods={filteredGods} />  
         </Route>
       </Switch>
     </div>

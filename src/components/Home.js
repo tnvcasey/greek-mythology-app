@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import React  from "react"
 
 const image= "https://www.ancient-origins.net/sites/default/files/field/image/One-of-the-Greek-temples.jpg"
     
