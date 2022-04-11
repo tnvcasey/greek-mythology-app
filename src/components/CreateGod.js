@@ -25,6 +25,7 @@ function CreateGod({ handleAddGod }){
           .then((res) => res.json())
           .then((newGod) => {
             handleAddGod(newGod)
+            
             setImage("")
             setName("")
             setRomanname("")
