@@ -3,11 +3,11 @@ import React from "react";
 function GodCard({ god, handleDelete }) {
 
     function deleteGod(){
-        fetch(`http://localhost:3004/gods/${god.id}`, {
+        fetch(`/gods/${god.id}`, {
             method: "DELETE",
         })
             .then((res) => res.json())
-            .then(() => handleDelete(god))
+            .then((god) => console.log(god))
     };
 
 

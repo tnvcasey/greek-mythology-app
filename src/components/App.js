@@ -18,7 +18,7 @@ function App(){
   const filteredGods = godsList.filter((god) => god.name.toLowerCase().includes(search.toLowerCase()))
 
   useEffect(() => {
-    fetch("https://mythology.onrender.com")
+    fetch("/gods")
       .then(res => res.json())
       .then(godsList => setGodsList(godsList))
   }, [])
