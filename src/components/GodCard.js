@@ -7,7 +7,7 @@ function GodCard({ god, handleDelete }) {
             method: "DELETE",
         })
             .then((res) => res.json())
-            .then((god) => console.log(god))
+            .then((god) => handleDelete(god))
     };
 
 
